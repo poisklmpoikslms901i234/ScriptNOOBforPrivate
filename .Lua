@@ -1,3 +1,10 @@
+
+-- script By POOM HUB--
+--Script Map --
+-- THE KROMPUNK (Castle Trial Update!!!) --
+
+
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
